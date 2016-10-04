@@ -1,4 +1,4 @@
-# dicas-de-frontend
-Gitbook com dicas de front-end
+# Dicas de front-end
+Gitbook com dicas gerais de front-end
 
 **Work in progress**
